@@ -1,0 +1,178 @@
+body{
+    margin: 00;
+    padding: 00;
+    font-family: "Open Sans", sans-serif;
+    background: #E4E7F1;
+}
+.header{
+    background: #405D9A;
+    overflow: hidden;
+}
+.containar{
+    width:70%;
+    margin:auto;
+}
+.logo{ 
+    width: 30%;
+    float: left;
+    
+}
+.login-area {
+    float: right;
+
+}
+
+
+.login-area label,
+.login-area input{
+    display: block;
+}
+.login-area .email,
+.login-area .password,
+.login-area .login{
+    float: left;
+    color: aliceblue;
+    margin-right:15px;
+ 
+}
+.logo img{
+    width: 140px;
+    margin-top: 15px;
+}
+.login-area .login{
+    margin-top: 23px;
+    margin-right: 0;
+
+}
+.login-area label{
+    margin-top:5px;
+    font-size: 15px;
+  
+}
+.login-area input[type="text"],
+.login-area input[type="password"]{
+    border: 1px solid #000;
+    font-size: 14px;
+    font-weight: 300;
+    padding: 2px 5px;
+}
+.login-area .password a{
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 12px;
+}
+.login-area .password a:hover{
+    text-decoration: underline ;
+}
+.login-area input[type="submit"]{
+    background-color: #4267b2;
+    border:1px solid #29487d;
+    color: aliceblue;
+    border-radius:5px;
+    padding: 2px 5px;
+    font-size: 300;
+}
+
+.midel{
+    width:70%;
+    margin:auto ;
+
+     padding-top: 20px;
+}
+.text-image{
+    width:60%;
+    float: left;
+  
+}
+.text-text{
+    width: 40%;
+    float: right;
+}
+.text-image .pa{ 
+    width: 500px;
+    font-size:20px;
+    
+}
+.text-text .te{
+    font-size:15px;
+}
+.sing .first-name input[type],
+.sing .last-name input[type]
+{
+    float: left;
+    border: 2px solid #90a4e8;
+    padding: 7px  25px;
+    font-weight: 300;
+    border-radius: 5px;
+}
+.sing .last-name{
+    float: right;
+    padding-bottom: 25px;
+}
+.sing .number input[type]{
+    
+    border: 2px solid #90a4e8;
+    padding: 7px 135px;
+    border-radius: 5px;
+    font-weight: 300; 
+   
+}
+.sing .number{
+    padding-bottom: 10px;
+}
+.sing .password input[type]{
+    padding: 7px 135px;
+    border: 2px solid #90a4e8;
+    border-radius: 5px;
+    font-weight: 300; 
+}
+.sing .password{
+    padding-bottom:20px;
+ 
+}
+.sing .birthdey{
+    color: #898b93;
+}
+.sing .birthdey input[type]{
+    padding: 7px 40px;
+    border: 2px solid #90a4e8;
+    border-radius: 5px;
+    font-weight: 300; 
+    
+}
+.sing .birthdey a{
+    
+    font-size: 11px;
+    text-decoration: none;
+}
+.sing .birthdey a:hover{
+text-decoration: underline;
+}
+
+
+.sing .gender{
+    font-size: 18px;
+  
+    margin-top: 10px;
+}
+.sing .text-box{
+    font-size: 15px;
+}
+.sing .text-box a{
+    text-decoration: none;
+}
+.sing .text-box a:hover{
+    text-decoration: underline;
+}
+.sing .singup input[type]{
+    margin-top: 10px;
+    padding: 9px 80px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    background:rgb(54 164 32);
+}
+
+
+    
+
+
